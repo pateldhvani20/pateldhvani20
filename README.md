@@ -21,25 +21,31 @@
 
 ## 🧑‍💻 About Me
 
-```python
-class Dhvani:
-    def __init__(self):
-        self.name        = "Dhvani Patel"
-        self.username    = "pateldhvani20"
-        self.degree      = "BCA (Bachelor of Computer Applications) — 2nd Year"
-        self.location    = "India 🇮🇳"
-        self.email       = "pateldhvani1420@gmail.com"
-        self.interests   = ["Python", "Java", "Artificial Intelligence",
-                            "Cybersecurity", "Open Source"]
-        self.currently   = "Building cool projects & growing skills 🚀"
-        self.fun_fact    = "I make Discord bots that fetch memes AND weather ☁️😄"
+Hey there! I'm **Dhvani Patel**, a passionate **2nd Year BCA student** from India 🇮🇳, on a mission to turn curiosity into code.
 
-    def say_hi(self):
-        print("Thanks for visiting my profile! Let's build something awesome. 🌟")
+I love exploring the intersection of **Artificial Intelligence**, **Python development**, and **Cybersecurity** — building projects that are both useful and creative. Whether it's crafting a Discord bot that makes people laugh while checking the weather, or diving into AI agents that give financial advice, I'm always looking for ways to blend learning with building.
 
-me = Dhvani()
-me.say_hi()
-```
+🎓 **Degree:** Bachelor of Computer Applications (BCA) — 2nd Year  
+📍 **Location:** India  
+📬 **Email:** pateldhvani1420@gmail.com  
+
+---
+
+### 🔍 What drives me?
+
+- 🤖 **AI & Automation** — I'm fascinated by how intelligent systems can solve real problems
+- 🔐 **Cybersecurity** — Understanding how systems can be protected (and where they're vulnerable)
+- 🌍 **Open Source** — Contributing to the developer community and learning from the best
+- 🛠️ **Building Projects** — From bots to agents, I love turning ideas into working software
+
+---
+
+### ⚡ Fun Facts
+
+- 💬 I built a Discord bot that delivers fresh memes *and* real-time weather updates — because why not?
+- 🤝 Contributed to **Kubeflow's open-source SDK** as a 2nd-year student with a PR that got **33 comments**
+- 📚 Currently levelling up in **Cybersecurity** and **AI Agent development**
+- 🌱 I believe the best way to learn is to **build, break, and rebuild**
 
 ---
 
